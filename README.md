@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Robotics Software Developer** 
 
