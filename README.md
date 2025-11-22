@@ -93,10 +93,6 @@ I love building **real robots**, integrating **hardware + software**, and creati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fxyas&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
----
-
-## 🔗 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-fayas-mv-a0110925a/"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/fxyas"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
