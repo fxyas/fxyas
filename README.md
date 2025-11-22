@@ -99,6 +99,4 @@ I love building **real robots**, integrating **hardware + software**, and creati
   <a href="mailto:fayasmvofficial@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
----
 
-⭐ **If you like my projects, consider giving a star!**
