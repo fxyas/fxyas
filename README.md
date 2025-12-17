@@ -44,41 +44,6 @@ I love building **real robots**, integrating **hardware + software**, and creati
 
 ---
 
-## 🛠 Projects
-
-### **🔹 Autonomous Mobile Robot (ROS2 + Nav2 + SLAM)**  
-- Built URDF from scratch  
-- Integrated Cartographer SLAM + AMCL  
-- Autonomous navigation with DWA Planner  
-- Fully simulated in Gazebo  
-
-### **🔹 10-DOF Bipedal Robot with Custom LiDAR**  
-- ESP32 + PCA9685 servo gait controller  
-- Developed a 360° ultrasonic scanner (ultrasonic + potentiometer + stepper)  
-- ROS2 node publishes LaserScan → RViz2 mapping  
-- Full 3D CAD in Fusion 360  
-
-### **🔹 Self-Balancing Robot (PID + Micro-ROS)**  
-- IMU (MPU6050) → Complementary/Kalman filtering  
-- Real-time PID tuning  
-- Micro-ROS communication to ROS2  
-- Simulated in Gazebo, tested on hardware  
-
----
-
-## 💼 Experience
-
-### **Software Intern — iHub (Aug 2025 – Oct 2025)**
-- Built ArUco marker follower for **UFactory Lite 6 robotic arm**  
-- Used computer vision + inverse kinematics  
-- Real-time end-effector alignment  
-
-### **Software Intern — GenRobotics (Jun 2024 – Sep 2024)**
-- Built **MediaPipe gait analysis pipeline**  
-- Automated OS maintenance with Bash + systemd  
-- Python + MySQL data syncing (reduced errors by 90%)  
-
----
 
 ## 🎓 Education  
 
