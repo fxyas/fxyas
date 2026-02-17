@@ -47,8 +47,8 @@ I love building **real robots**, integrating **hardware + software**, and creati
 
 ## 🎓 Education  
 
-- 🎓 **BCA in Robotics, AI & ML** — Yenepoya University (2021–2024)  
-- 🎓 **PG Diploma in ROS (Robot Operating System)** — iHub (2025)  
+-  **BCA in Robotics, AI & ML** — Yenepoya University (2021–2024)  
+-  **PG Diploma in ROS (Robot Operating System)** — iHub (2025)  
 
 ---
 
