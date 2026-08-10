@@ -59,7 +59,7 @@ I love building **real robots**, integrating **hardware + software**, and creati
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohammed-fayas-mv"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-fayas-mv"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/fxyas"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:fayasmvofficial@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
